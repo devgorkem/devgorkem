@@ -3,11 +3,8 @@
 ## I'm a Student and Developer
 
 - I currently web app and website developing
-
-### Connect with me:
-[<img align="left" alt="utkuali| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-<br />
-<br />
+- Only Backend Development
+- Linux > Windows
 
 ### Languages and Tools:
 
