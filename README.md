@@ -3,8 +3,7 @@
 ## I'm a Student and Developer
 
 - I currently web app and website developing
-- Only Backend Development
-- Linux > Windows
+- Only Linux
 
 ### Languages and Tools:
 
