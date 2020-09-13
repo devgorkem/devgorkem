@@ -1,12 +1,8 @@
 
 ### Hello , my name is Gorkem !
+## I'm a Student and Developer
 
-[![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)][discord]
-
-## I'm a Student, Developer, and Streamer
-
-- 💡 I currently focus on Android App and FiveM development,
-- ⚡ Come and join me on my streams for chill coding.
+- I currently web app and website developing
 
 ### Connect with me:
 [<img align="left" alt="utkuali| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
